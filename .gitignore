@@ -1,0 +1,38 @@
+# Build directories
+/build/
+/cmake-build-*/
+out/
+
+# vcpkg artifacts
+/vcpkg_installed/
+
+# CLion / JetBrains IDEs
+.idea/
+*.iml
+
+# Visual Studio / MSVC
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj*
+
+# Compiled binaries and object files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.pdb
+*.ilk
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+Testing/

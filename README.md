@@ -20,7 +20,6 @@ MyVector/
 │   └── MyVector.h          # Core template class implementation
 ├── tests/
 │   └── test_my_vector.cpp  # GoogleTest unit test suite
-├── .clang-format           # Code style configuration
 ├── .gitignore              # Git ignore rules for CMake, CLion, and vcpkg
 ├── CMakeLists.txt          # CMake build and test configuration
 ├── CMakePresets.json       # Ninja + clang-cl / vcpkg build presets
